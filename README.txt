@@ -1,6 +1,8 @@
-Here are code examples in C++, Python, Rust, and Julia, each designed to produce the output "Hello World".
+# Hello World
 
-Following instructions will allow you to run the respective "Hello World" programs in each language.
+Code examples in C++, Python, Rust, and Julia, each designed to produce the "Hello World" output.
+
+The following instructions will allow you to run each language's respective "Hello World" programs.
 
 CPP:
 g++ -o hello hello.cpp
